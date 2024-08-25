@@ -25,7 +25,7 @@
     text-transform: capitalize;
     font-size: 25px;
     color:aqua;
-    margin-left:50px;
+    margin-left:50px;m
 }
 a{
     margin-right:50px;
